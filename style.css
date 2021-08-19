@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: lightblue;
+    color: white;
+}
+button{
+    height: 100px;
+    width: 200px;
+    margin: 50px;
+}
+#header{
+    font-size: 100px;
+}
+#enter{
+    border-radius: 10px;
+}
